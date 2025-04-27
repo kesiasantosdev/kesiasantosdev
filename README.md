@@ -2,8 +2,8 @@
 
  <div>
  <a href="https://github.com/kesiasantosdev">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesiasantosdev&show_icons=true&theme=dracula"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiasantosdev&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kesiasantosdev&show_icons=true&theme=dracula"/>  
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiasantosdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Linguagens
