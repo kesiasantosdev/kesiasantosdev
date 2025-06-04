@@ -11,6 +11,7 @@
 <div style="display: inline_block"><br>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-original.svg"/>
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
 
 ##
